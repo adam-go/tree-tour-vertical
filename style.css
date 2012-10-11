@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+}
+
+#map {
+	position: fixed;
+	top: 0px;
+	width: 100%;
+}
+
+#map img {
+	margin: 0 auto;
+	width: 720px;
+	display: block;
+}
+
+#details {
+	margin: 345px auto 0 auto;
+	width: 897px;
+	height: 100%;
+}
