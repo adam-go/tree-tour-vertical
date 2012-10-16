@@ -12,10 +12,24 @@ body {
 	margin: 0 auto;
 	width: 720px;
 	display: block;
+	border: 10px solid #fff;
+	box-shadow: 0 -105px 20px 120px #fff;
 }
 
 #details {
-	margin: 345px auto 0 auto;
+	margin: 365px auto 0 auto;
 	width: 897px;
 	height: 100%;
+}
+
+.tree h2 {
+	clear: both;
+}
+
+.tree-slideshow {
+	float: left;
+}
+
+.tree-description {
+	margin-left: 300px;
 }
