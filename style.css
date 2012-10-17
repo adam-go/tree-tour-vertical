@@ -12,8 +12,10 @@ body {
 	margin: 0 auto;
 	width: 720px;
 	display: block;
-	border: 10px solid #fff;
-	box-shadow: 0 -105px 20px 120px #fff;
+	border-left: 90px solid #fff;
+	border-right: 90px solid #fff;
+	border-bottom: 14px solid #fff;
+	box-shadow: 0 0 14px 14px #fff;
 }
 
 #details {
