@@ -18,6 +18,22 @@ body {
 	box-shadow: 0 0 14px 14px #fff;
 }
 
+div.map-marker {
+	position: fixed;
+	font-family: sans-serif;
+	background: #ccc;
+	padding: 0 5px;
+	border-radius: 50%;
+	border: 1px solid #444;
+	color: #444;
+}
+
+div.map-marker.active {
+	color: #000;
+	border: 2px solid #000;
+	background: #fff
+}
+
 #details {
 	margin: 365px auto 0 auto;
 	width: 897px;
